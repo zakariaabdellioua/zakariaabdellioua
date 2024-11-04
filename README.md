@@ -1,5 +1,4 @@
 ## Hi there I am Zakaria👋
-# 💼 About Me
 
 👋 **Computer Science Graduate** | 🚀 **Cross-Platform Developer**  
 💙 Passionate about building smooth UIs with **Flutter** & **Dart**  
